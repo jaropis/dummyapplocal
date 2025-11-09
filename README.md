@@ -1,6 +1,6 @@
 # DummyAPI Flask Implementation
 
-A Flask-based API that mimics the DummyAPI.io structure.
+A Flask-based API that mimics the DummyAPI.io structure. I made it because I needed it for my educational activitiesa and dummyapi seems to be down a lot or you can't log in. Now you can use it locally.
 
 ## Installation
 
@@ -55,4 +55,5 @@ curl -H "app-id: 0JyYiOQXQQr5H9OEn21312" http://localhost:5000/data/v1/user
 ### Tag Controller
 
 - GET `/data/v1/tag` - Get list of tags
+
 # dummyapplocal
