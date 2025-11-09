@@ -1,0 +1,110 @@
+[
+  {
+    "id": "60d21b4667d0d8992e610c85",
+    "text": "This is an amazing view from the mountains! Nature at its finest.",
+    "image": "https://img.dummyapi.io/photo-1564694202779-bc908c327862.jpg",
+    "likes": 43,
+    "tags": ["nature", "mountain", "travel"],
+    "publishDate": "2021-06-22T08:30:00.000Z",
+    "owner": "60d0fe4f5311236168a109ca"
+  },
+  {
+    "id": "60d21b4667d0d8992e610c86",
+    "text": "Just finished my morning workout. Feeling energized!",
+    "image": "https://img.dummyapi.io/photo-1517836357463-d25dfeac3438.jpg",
+    "likes": 28,
+    "tags": ["fitness", "health", "workout"],
+    "publishDate": "2021-06-22T09:15:00.000Z",
+    "owner": "60d0fe4f5311236168a109cb"
+  },
+  {
+    "id": "60d21b4667d0d8992e610c87",
+    "text": "Coffee time ☕ Best part of the morning routine.",
+    "image": "https://img.dummyapi.io/photo-1509042239860-f550ce710b93.jpg",
+    "likes": 56,
+    "tags": ["coffee", "morning", "lifestyle"],
+    "publishDate": "2021-06-22T10:00:00.000Z",
+    "owner": "60d0fe4f5311236168a109cc"
+  },
+  {
+    "id": "60d21b4667d0d8992e610c88",
+    "text": "Beautiful sunset over the ocean. Perfect end to a perfect day.",
+    "image": "https://img.dummyapi.io/photo-1519681393784-d120267933ba.jpg",
+    "likes": 89,
+    "tags": ["sunset", "ocean", "nature", "photography"],
+    "publishDate": "2021-06-22T19:45:00.000Z",
+    "owner": "60d0fe4f5311236168a109cd"
+  },
+  {
+    "id": "60d21b4667d0d8992e610c89",
+    "text": "Exploring the city streets and finding hidden gems everywhere.",
+    "image": "https://img.dummyapi.io/photo-1480714378408-67cf0d13bc1b.jpg",
+    "likes": 34,
+    "tags": ["city", "urban", "travel", "photography"],
+    "publishDate": "2021-06-23T11:20:00.000Z",
+    "owner": "60d0fe4f5311236168a109ce"
+  },
+  {
+    "id": "60d21b4667d0d8992e610c8a",
+    "text": "Working on some new code today. Technology never stops evolving!",
+    "image": "https://img.dummyapi.io/photo-1498050108023-c5249f4df085.jpg",
+    "likes": 41,
+    "tags": ["technology", "coding", "programming", "developer"],
+    "publishDate": "2021-06-23T14:00:00.000Z",
+    "owner": "60d0fe4f5311236168a109cf"
+  },
+  {
+    "id": "60d21b4667d0d8992e610c8b",
+    "text": "Fresh ingredients make all the difference in cooking!",
+    "image": "https://img.dummyapi.io/photo-1504674900247-0877df9cc836.jpg",
+    "likes": 67,
+    "tags": ["food", "cooking", "healthy", "lifestyle"],
+    "publishDate": "2021-06-23T18:30:00.000Z",
+    "owner": "60d0fe4f5311236168a109d0"
+  },
+  {
+    "id": "60d21b4667d0d8992e610c8c",
+    "text": "Weekend adventures are the best kind of adventures.",
+    "image": "https://img.dummyapi.io/photo-1503220317375-aaad61436b1b.jpg",
+    "likes": 52,
+    "tags": ["adventure", "weekend", "travel", "nature"],
+    "publishDate": "2021-06-24T10:15:00.000Z",
+    "owner": "60d0fe4f5311236168a109d1"
+  },
+  {
+    "id": "60d21b4667d0d8992e610c8d",
+    "text": "Art is not what you see, but what you make others see.",
+    "image": "https://img.dummyapi.io/photo-1460661419201-fd4cecdf8a8b.jpg",
+    "likes": 73,
+    "tags": ["art", "creativity", "inspiration", "design"],
+    "publishDate": "2021-06-24T15:45:00.000Z",
+    "owner": "60d0fe4f5311236168a109d2"
+  },
+  {
+    "id": "60d21b4667d0d8992e610c8e",
+    "text": "Nothing beats a good book on a rainy afternoon.",
+    "image": "https://img.dummyapi.io/photo-1507842217343-583bb7270b66.jpg",
+    "likes": 38,
+    "tags": ["books", "reading", "literature", "relaxation"],
+    "publishDate": "2021-06-24T16:30:00.000Z",
+    "owner": "60d0fe4f5311236168a109d3"
+  },
+  {
+    "id": "60d21b4667d0d8992e610c8f",
+    "text": "Trying out a new recipe today. Wish me luck!",
+    "image": "https://img.dummyapi.io/photo-1556909114-f6e7ad7d3136.jpg",
+    "likes": 29,
+    "tags": ["food", "cooking", "recipe"],
+    "publishDate": "2021-06-25T12:00:00.000Z",
+    "owner": "60d0fe4f5311236168a109ca"
+  },
+  {
+    "id": "60d21b4667d0d8992e610c90",
+    "text": "Beach day! Sun, sand, and good vibes only.",
+    "image": "https://img.dummyapi.io/photo-1473496169904-658ba7c44d8a.jpg",
+    "likes": 94,
+    "tags": ["beach", "summer", "vacation", "ocean"],
+    "publishDate": "2021-06-25T14:20:00.000Z",
+    "owner": "60d0fe4f5311236168a109cb"
+  }
+]

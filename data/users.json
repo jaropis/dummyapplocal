@@ -1,0 +1,192 @@
+[
+  {
+    "id": "60d0fe4f5311236168a109ca",
+    "title": "ms",
+    "firstName": "Sara",
+    "lastName": "Andersen",
+    "gender": "female",
+    "email": "sara.andersen@example.com",
+    "dateOfBirth": "1996-04-30T19:26:49.996Z",
+    "registerDate": "2021-06-21T21:02:07.374Z",
+    "phone": "92694011",
+    "picture": "https://randomuser.me/api/portraits/women/58.jpg",
+    "location": {
+      "street": "9614, Søndermarksvej",
+      "city": "Kongsvinger",
+      "state": "Nordjylland",
+      "country": "Denmark",
+      "timezone": "+9:00"
+    }
+  },
+  {
+    "id": "60d0fe4f5311236168a109cb",
+    "title": "mr",
+    "firstName": "Edita",
+    "lastName": "Vestering",
+    "gender": "male",
+    "email": "edita.vestering@example.com",
+    "dateOfBirth": "1989-03-24T19:26:49.996Z",
+    "registerDate": "2021-06-21T21:02:07.375Z",
+    "phone": "(656)-976-4872",
+    "picture": "https://randomuser.me/api/portraits/men/75.jpg",
+    "location": {
+      "street": "6007, Burgemeester Reigerstraat",
+      "city": "Tiel",
+      "state": "Groningen",
+      "country": "Netherlands",
+      "timezone": "+5:30"
+    }
+  },
+  {
+    "id": "60d0fe4f5311236168a109cc",
+    "title": "miss",
+    "firstName": "Madeleine",
+    "lastName": "Till",
+    "gender": "female",
+    "email": "madeleine.till@example.com",
+    "dateOfBirth": "1987-05-12T19:26:49.996Z",
+    "registerDate": "2021-06-21T21:02:07.376Z",
+    "phone": "07925 237958",
+    "picture": "https://randomuser.me/api/portraits/women/75.jpg",
+    "location": {
+      "street": "3456, Park Road",
+      "city": "Canterbury",
+      "state": "Berkshire",
+      "country": "United Kingdom",
+      "timezone": "-2:00"
+    }
+  },
+  {
+    "id": "60d0fe4f5311236168a109cd",
+    "title": "mr",
+    "firstName": "Maël",
+    "lastName": "Leclercq",
+    "gender": "male",
+    "email": "mael.leclercq@example.com",
+    "dateOfBirth": "1993-09-16T19:26:49.996Z",
+    "registerDate": "2021-06-21T21:02:07.377Z",
+    "phone": "03-25-87-10-91",
+    "picture": "https://randomuser.me/api/portraits/men/47.jpg",
+    "location": {
+      "street": "7789, Avenue Debrousse",
+      "city": "Pau",
+      "state": "Eure",
+      "country": "France",
+      "timezone": "+3:30"
+    }
+  },
+  {
+    "id": "60d0fe4f5311236168a109ce",
+    "title": "mrs",
+    "firstName": "Emily",
+    "lastName": "Morris",
+    "gender": "female",
+    "email": "emily.morris@example.com",
+    "dateOfBirth": "1991-11-23T19:26:49.996Z",
+    "registerDate": "2021-06-21T21:02:07.378Z",
+    "phone": "(555)-456-7890",
+    "picture": "https://randomuser.me/api/portraits/women/33.jpg",
+    "location": {
+      "street": "1234, Main Street",
+      "city": "Austin",
+      "state": "Texas",
+      "country": "United States",
+      "timezone": "-6:00"
+    }
+  },
+  {
+    "id": "60d0fe4f5311236168a109cf",
+    "title": "mr",
+    "firstName": "John",
+    "lastName": "Doe",
+    "gender": "male",
+    "email": "john.doe@example.com",
+    "dateOfBirth": "1985-07-14T19:26:49.996Z",
+    "registerDate": "2021-06-21T21:02:07.379Z",
+    "phone": "(555)-123-4567",
+    "picture": "https://randomuser.me/api/portraits/men/22.jpg",
+    "location": {
+      "street": "5678, Oak Avenue",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "timezone": "-5:00"
+    }
+  },
+  {
+    "id": "60d0fe4f5311236168a109d0",
+    "title": "ms",
+    "firstName": "Anna",
+    "lastName": "Schmidt",
+    "gender": "female",
+    "email": "anna.schmidt@example.com",
+    "dateOfBirth": "1994-02-18T19:26:49.996Z",
+    "registerDate": "2021-06-21T21:02:07.380Z",
+    "phone": "+49 171 1234567",
+    "picture": "https://randomuser.me/api/portraits/women/44.jpg",
+    "location": {
+      "street": "9012, Hauptstraße",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "timezone": "+1:00"
+    }
+  },
+  {
+    "id": "60d0fe4f5311236168a109d1",
+    "title": "mr",
+    "firstName": "Carlos",
+    "lastName": "Rodriguez",
+    "gender": "male",
+    "email": "carlos.rodriguez@example.com",
+    "dateOfBirth": "1988-12-05T19:26:49.996Z",
+    "registerDate": "2021-06-21T21:02:07.381Z",
+    "phone": "+34 912 345 678",
+    "picture": "https://randomuser.me/api/portraits/men/35.jpg",
+    "location": {
+      "street": "3456, Calle Mayor",
+      "city": "Madrid",
+      "state": "Madrid",
+      "country": "Spain",
+      "timezone": "+1:00"
+    }
+  },
+  {
+    "id": "60d0fe4f5311236168a109d2",
+    "title": "miss",
+    "firstName": "Sophie",
+    "lastName": "Martin",
+    "gender": "female",
+    "email": "sophie.martin@example.com",
+    "dateOfBirth": "1992-08-21T19:26:49.996Z",
+    "registerDate": "2021-06-21T21:02:07.382Z",
+    "phone": "01-23-45-67-89",
+    "picture": "https://randomuser.me/api/portraits/women/65.jpg",
+    "location": {
+      "street": "7890, Rue de la Paix",
+      "city": "Paris",
+      "state": "Île-de-France",
+      "country": "France",
+      "timezone": "+1:00"
+    }
+  },
+  {
+    "id": "60d0fe4f5311236168a109d3",
+    "title": "mr",
+    "firstName": "Luca",
+    "lastName": "Rossi",
+    "gender": "male",
+    "email": "luca.rossi@example.com",
+    "dateOfBirth": "1990-06-10T19:26:49.996Z",
+    "registerDate": "2021-06-21T21:02:07.383Z",
+    "phone": "+39 02 1234567",
+    "picture": "https://randomuser.me/api/portraits/men/52.jpg",
+    "location": {
+      "street": "2345, Via Roma",
+      "city": "Milan",
+      "state": "Lombardy",
+      "country": "Italy",
+      "timezone": "+1:00"
+    }
+  }
+]
