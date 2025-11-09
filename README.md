@@ -16,6 +16,22 @@ python app.py
 
 The API will be available at `http://localhost:5000/data/v1/`
 
+## Configuration
+
+### Response Delay
+
+You can simulate network latency by setting the `RESPONSE_DELAY` variable in `app.py`. This will delay all API responses by the specified number of seconds.
+
+- Set to `0` (default) for no delay
+- Set to `2` for a 2-second delay on all responses
+- Useful for testing loading states and async behavior in your frontend
+
+To configure the delay, edit line 16 in `app.py`:
+
+```python
+RESPONSE_DELAY = 2  # Delay all responses by 2 seconds
+```
+
 ## Usage
 
 All requests require the `app-id` header:
@@ -57,4 +73,5 @@ curl -H "app-id: 0JyYiOQXQQr5H9OEn21312" http://localhost:5000/data/v1/user
 - GET `/data/v1/tag` - Get list of tags
 
 # dummyapplocal
+
 # dummyapplocal

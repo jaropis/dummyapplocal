@@ -4,12 +4,16 @@ import json
 import os
 from datetime import datetime
 from functools import wraps
+import time
 
 app = Flask(__name__)
 CORS(app)
 
 # Base URL prefix
 BASE_URL = '/data/v1'
+
+# Response delay in seconds (set to 0 for no delay)
+RESPONSE_DELAY = 2
 
 # Data file paths
 DATA_DIR = os.path.join(os.path.dirname(__file__), 'data')
@@ -87,6 +91,11 @@ def require_app_id(f):
             return error_response('APP_ID_MISSING', 403)
         # For simplicity, we accept any non-empty app-id
         # In a real app, you would validate against a database
+        
+        # Apply response delay
+        if RESPONSE_DELAY > 0:
+            time.sleep(RESPONSE_DELAY)
+        
         return f(*args, **kwargs)
     return decorated_function
 
